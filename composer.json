@@ -25,7 +25,7 @@
     "illuminate/container": "^4.2.7",
     "illuminate/filesystem": "~4.2",
     "illuminate/events": "~4.2",
-    "leofonic/remote": "dev-develop",
+    "leofonic/remote": "dev-master",
     "illuminate/log": "~4.2",
     "patchwork/utf8": "~1.1",
     "d11wtq/boris": "~1.0.8",
