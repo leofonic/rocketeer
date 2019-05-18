@@ -101,7 +101,9 @@ class RemoteHandler
             $name,
             $credentials['host'],
             $credentials['username'],
-            $this->getAuth($credentials)
+            $this->getAuth($credentials),
+            null,
+            120
         );
 
         // Set output on connection
