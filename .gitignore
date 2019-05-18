@@ -1,0 +1,16 @@
+# Cache and compiled
+.rocketeer
+bin/rocketeer.phar
+bin/rocketeer.phar-contents
+composer.lock
+.php_cs.cache
+
+# Tests
+tests/_server/foobar
+
+# Dependencies
+vendor
+
+TODO.md
+Vagrantfile
+tests/_coverage
